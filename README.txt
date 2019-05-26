@@ -1,6 +1,6 @@
 JKanji: A simple online handwriting recognition system for Japanese Kanji
 
-Open JKanji.html to run.
+YouTube Video Demo: https://www.youtube.com/watch?v=1EU5TudbJiE
 
- - Jess Bermudes
-   bermu103@chapman.edu
+This project uses a tree data structure to represent a path of 
+brush strokes that canonically correspond to one Kanji character.
